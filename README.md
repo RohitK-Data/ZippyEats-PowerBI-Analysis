@@ -11,7 +11,7 @@ This Power BI project analyzes the operational and marketing performance of Zipp
 **Efficiency**: Maintained a **6% cancellation rate** and an **OTIF rate of 54%**
 
 ###  Analysis Highlights
-**City Performance**: **Mumbai** leads in GMV , while **Kolkata** maintains the fastest average delivery time at **28.7 minutes**.  
+**City Performance**: **Mumbai** leads in GMV , while **Kolkata** maintains the fastest average delivery time at **28.7 minutes**.    
 **Marketing ROI**: The **IPL Snack Fever 2024** campaign was the top performer, generating **\$198.3K in GMV** with a **5.4 ROI**.  
 **Customer Segments**: Analysis of **5,524 total customers** categorized by loyalty, including **VIP and Repeat** segments.  
 **Demand Patterns**: Hourly trends show peak order volumes at **16:00 (4 PM)** with **1,128 orders**.  
