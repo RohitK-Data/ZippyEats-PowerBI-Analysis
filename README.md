@@ -5,9 +5,12 @@ ZippyEats Performance Dashboard: An end-to-end Power BI project analyzing food d
 This Power BI project analyzes the operational and marketing performance of ZippyEats. It transforms raw delivery data into actionable insights regarding revenue growth, delivery efficiency, and campaign ROI
 
 ###  Key Performance Metrics
-**Financials**: Total **GMV of $8.28M** with **$2.19M in Net Revenue**.
-**Growth**: Achieved a **YoY Growth of 101.15%**.
-**Operations**: Processed **14K completed orders** with an average delivery time of **29.23 minutes**
+**Financials**: Total **GMV of $8.28M** with **$2.19M in Net Revenue**.  
+
+**Growth**: Achieved a **YoY Growth of 101.15%**.  
+
+**Operations**: Processed **14K completed orders** with an average delivery time of **29.23 minutes**  
+
 **Efficiency**: Maintained a **6% cancellation rate** and an **OTIF rate of 54%**
 
 ###  Analysis Highlights
