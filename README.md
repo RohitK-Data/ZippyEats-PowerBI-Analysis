@@ -16,6 +16,16 @@ This Power BI project analyzes the operational and marketing performance of Zipp
 **Customer Segments**: Analysis of **5,524 total customers** categorized by loyalty, including **VIP and Repeat** segments.  
 **Demand Patterns**: Hourly trends show peak order volumes at **16:00 (4 PM)** with **1,128 orders**.  
 
+### Technical Implementation
+**Data Modeling**: Integrated multiple data sources (Orders, Customers, Restaurants, Riders, and Campaigns).  
+**DAX Measures**: Developed complex calculations for GMV, Net Revenue ($2.19M) , Average Order Value (AOV) ($605.09) , Customer Acquisition Cost (CAC) ($41.98), and ROI.  
+
+**Advanced Visualizations**
+
+**Demand Curves**: Analyzing order peaks by hour to optimize rider allocation.  
+**Orders Funnel**: Tracking the transition from total orders to completed, cancelled, and refunded statuses.  
+**Customer Segmentation**: Categorizing users into VIP, Loyal, Repeat, and New segments to tailor marketing strategies.
+
 ###  Tools Used
 **Power BI Desktop**: Data modeling and DAX measures.
 **Excel/CSV**: Source data for orders, restaurants, and campaigns.
